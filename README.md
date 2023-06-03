@@ -1,16 +1,36 @@
-# interest_calculator
+# 💰 Interest Calculator
+A simple interest calculator app built with Flutter.
 
-A new Flutter project.
+# ✨ Features
+- Calculate simple interest based on principal amount, interest rate, and time period.
+- User-friendly interface for inputting and displaying results.
+- Supports multiple currencies and interest rate formats.
+- Flexible and customizable design.
 
-## Getting Started
+# 📷 Screenshots
+![Image](https://github.com/Anm0lGrewal/interest-calculator/assets/93851911/0c78986d-d4c8-43ab-8683-42ac946a0411)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
+To run this project, follow these steps:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Make sure you have Flutter and Dart installed on your machine.
+2. Clone this repository: `https://github.com/Anm0lGrewal/interest-calculator/`
+3. Navigate to the project directory: `cd interest_calculator`
+4. Install the dependencies: `flutter pub get`
+5. Run the app: `flutter run`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙️ Dependencies
+The following dependencies are used in this project:
+
+- `flutter`: the Flutter SDK.
+- `cupertino_icons`: for the app icon.
+- `flutter_launcher_icons`: for generating app icons.
+
+You can find the complete list of dependencies in the `pubspec.yaml` file.
+
+## 🤝 Contributions
+Contributions to this project are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
+
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).
